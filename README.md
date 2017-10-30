@@ -1,15 +1,15 @@
-Welcome to the Particle Engyn!
-Created by: Harrrison Turley
-Date completed: July 20, 2017
+Welcome to the Particle Engyn!  
+Created by: Harrrison Turley  
+Date completed: July 20, 2017  
 
 
-**To begin, open "ParticleEngyn.jar"**
+**To begin, open "ParticleEngyn.jar"**  
 
-Keybinds:
+Keybinds:  
 
-MODEL ADDITIONS
-H: Add models
-G: Remove models
+MODEL ADDITIONS  
+H: Add models  
+G: Remove models  
 
 X VELOCITY
 M: X velocity small increase
