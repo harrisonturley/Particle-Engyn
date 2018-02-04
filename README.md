@@ -63,4 +63,4 @@ To use with Eclipse:
 6) Navigate to the required_libraries folder from the top level directory, and add all JAR files inside  
 7) Select Apply and Close  
 
-To run within eclipse, run the "GameLoop.java" file  
+To run within Eclipse, run the "GameLoop.java" file  
