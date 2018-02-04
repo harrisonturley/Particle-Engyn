@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/native_files"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/jinput.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/laf-plugin-7.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/laf-widget-7.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/log4j-api-2.0-beta9.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/lwjgl.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/lzma.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/slick-util.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/substance-7.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Harrison Turley/eclipse-workspace/ParticleEngyn/required_libraries/trident-7.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

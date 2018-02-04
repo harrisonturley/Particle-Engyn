@@ -50,3 +50,17 @@ To change the texture:
 In the "res" folder, the currrently selected model is named "selected_texture".    
 To choose a new texture, simply rename this file, then rename the new model to "selected_texture".  
 NOTE: All textures must be .PNG files, and sized 2^n * 2^n, where n is an integer.  
+
+
+///////////////////////////////////////////////////
+
+To use with Eclipse:  
+1) Open the Eclipse project after pulling  
+2) In the project explorer, right click on JRE System Library, select Build Path -> Configure Build Path  
+3) Expand JRE System Library, select "Native library location", and click on edit  
+4) Navigate via the External Folder to the required_libraries/native_files folder from the top level directory, and select the appropriate DLL file (ex: Windows 64 bit = lwjgl64.dll)  
+5) After selecting ok, select JRE System Library again, and select "Add External JARs..."  
+6) Navigate to the required_libraries folder from the top level directory, and add all JAR files inside  
+7) Select Apply and Close  
+
+To run within eclipse, run the "GameLoop.java" file  
