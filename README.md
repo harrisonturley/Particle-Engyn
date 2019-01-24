@@ -1,11 +1,12 @@
+# Particle Engyn
+
 Welcome to the Particle Engyn!  
 Created by: Harrrison Turley  
 Date completed: July 20, 2017  
 
-
 **To begin, open "ParticleEngyn.jar"**  
 
-Keybinds:  
+## Keybinds 
 
 MODEL ADDITIONS  
 H: Add models  
@@ -40,7 +41,7 @@ PRESET VALUES:
 
 Default mode: Showcase  
 
-//////////////////////////////////////////////////
+## Changing Model/Texture
 
 To change the model:   
 In the "res" folder, the currrently selected model is named "selected_model".    
@@ -52,7 +53,7 @@ To choose a new texture, simply rename this file, then rename the new model to "
 NOTE: All textures must be .PNG files, and sized 2^n * 2^n, where n is an integer.  
 
 
-///////////////////////////////////////////////////
+## Running In Eclipse
 
 To use with Eclipse:  
 1) Open the Eclipse project after pulling  
